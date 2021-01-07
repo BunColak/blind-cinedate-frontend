@@ -5,7 +5,9 @@
   "license": "MIT",
   "scripts": {
     "dev": "nuxt",
-    "build": "nuxt build"
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "start": "nuxt start"
   },
   "dependencies": {
     "@tailwindcss/postcss7-compat": "^2.0.2",
